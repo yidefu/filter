@@ -1,8 +1,9 @@
 package sensitive_test
 
 import (
-	"test/sensitive"
 	"testing"
+
+	"github.com/yidefu/filter/sensitive"
 )
 
 func TestReadByLine(t *testing.T) {

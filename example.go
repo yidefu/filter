@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"test/sensitive"
 	"time"
+
+	"github.com/yidefu/filter/sensitive"
 )
 
 func main() {

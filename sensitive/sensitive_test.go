@@ -2,8 +2,9 @@ package sensitive_test
 
 import (
 	"fmt"
-	"test/sensitive"
 	"testing"
+
+	"github.com/yidefu/filter/sensitive"
 )
 
 func TestSetTreeByFile(t *testing.T) {
